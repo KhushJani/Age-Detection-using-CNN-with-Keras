@@ -24,11 +24,11 @@ https://drive.google.com/drive/folders/19zV45_NQzrBPLzFymXeNZiufxbeENGth
 
 #### Prerequisites
 
-Python 3.x
-Keras
-OpenCV
-NumPy
-Imutils
+* Python 3.x
+* Keras
+* OpenCV
+* NumPy
+* Imutils
 
 #### Installation
 
@@ -38,18 +38,18 @@ Clone the repository:
 
 The model is trained to classify ages into the following ranges:
 
--> 1-2
--> 3-9
--> 10-20
--> 21-27
--> 28-45
--> 46-65
--> 66-116
+* 1-2
+* 3-9
+* 10-20
+* 21-27
+* 28-45
+* 46-65
+* 66-116
 
 ### Acknowledgements
 
-Keras
-OpenCV
-NumPy
+* Keras
+* OpenCV
+* NumPy
 
 
