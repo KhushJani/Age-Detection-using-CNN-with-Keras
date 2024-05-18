@@ -32,7 +32,7 @@ https://drive.google.com/drive/folders/19zV45_NQzrBPLzFymXeNZiufxbeENGth
 
 #### Installation
 
-Clone the repository:
+Clone the repository: https://github.com/KhushJani/Age-Detection-using-CNN-with-Keras.git
 
 ### Results
 
